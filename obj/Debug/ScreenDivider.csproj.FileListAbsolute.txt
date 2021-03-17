@@ -1,0 +1,14 @@
+D:\ScreenDivider\obj\Debug\MainWindow.g.cs
+D:\ScreenDivider\obj\Debug\App.g.cs
+D:\ScreenDivider\obj\Debug\ScreenDivider_MarkupCompile.cache
+D:\ScreenDivider\obj\Debug\ScreenDivider_MarkupCompile.lref
+D:\ScreenDivider\bin\Debug\ScreenDivider.exe.config
+D:\ScreenDivider\bin\Debug\ScreenDivider.exe
+D:\ScreenDivider\bin\Debug\ScreenDivider.pdb
+D:\ScreenDivider\obj\Debug\MainWindow.baml
+D:\ScreenDivider\obj\Debug\ScreenDivider.g.resources
+D:\ScreenDivider\obj\Debug\ScreenDivider.Properties.Resources.resources
+D:\ScreenDivider\obj\Debug\ScreenDivider.csproj.GenerateResource.cache
+D:\ScreenDivider\obj\Debug\ScreenDivider.csproj.CoreCompileInputs.cache
+D:\ScreenDivider\obj\Debug\ScreenDivider.exe
+D:\ScreenDivider\obj\Debug\ScreenDivider.pdb
